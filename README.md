@@ -1,5 +1,7 @@
 # CSE 298 - Quiz 2
 
+Remember, make at least 1 commit per question. You should have at least 3 commits for this quiz.
+
 # Question 1
 
 What is localization and why is it important in robotics?
